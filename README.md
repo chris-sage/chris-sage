@@ -1,5 +1,3 @@
-### Hi there 👋
-
 I’m currently working at [Sage People](https://www.sagepeople.com/) on the Salesforce Platform for Team Titans!
 
 🔧 Technology and Tools
